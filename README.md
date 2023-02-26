@@ -1,2 +1,3 @@
 #KODLUYORUZ ÖDEV
-*Kodluyoruz 2. ve 3. hafta ödevleri* 
+
+*Kodluyoruz 2,3 ve 4.hafta ödevleri* 
