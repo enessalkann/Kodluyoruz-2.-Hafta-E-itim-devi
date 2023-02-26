@@ -1,0 +1,21 @@
+/*For product.html start*/
+body{
+    background-color:gray;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: #DC0000;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 35px;
+    color: #2F58CD;
+    
+}
+p{
+    font-size: 18px;
+}
+
